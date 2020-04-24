@@ -7,10 +7,10 @@ Welcome to ZUOJL's learn documentation!
 ===========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-   linux/install-mariadb-centos.rst
+   linux/index.rst
 
 Indices and tables
 ==================
