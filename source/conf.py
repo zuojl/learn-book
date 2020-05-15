@@ -108,6 +108,12 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'ZUOJLdoc'
 
+# Language to be used for generating the HTML full-text search index.
+# Sphinx supports the following languages:
+#   'da', 'de', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja'
+#   'nl', 'no', 'pt', 'ro', 'ru', 'sv', 'tr', 'zh'
+html_search_language = 'zh'
+
 
 # -- Options for LaTeX output ------------------------------------------------
 
